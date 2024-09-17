@@ -18,6 +18,6 @@ function minusbutton() {
 }
 
 function resetbutton() {
-    counter = 0 ;
-    h1.innerHTML = counter ;
+    counter = 0;
+    h1.innerHTML = counter;
 }

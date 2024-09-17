@@ -16,3 +16,8 @@ function minusbutton() {
     h1.innerHTML = counter;
 
 }
+
+function resetbutton() {
+    counter = 0 ;
+    h1.innerHTML = counter ;
+}
